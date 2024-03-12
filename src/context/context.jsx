@@ -55,7 +55,7 @@ const ContextProvider = (props) => {
             delayPara(i,nextWords+" ")
         }
         setLoad(false)
-        setInput("")
+
 
     }
     
